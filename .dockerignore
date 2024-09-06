@@ -1,0 +1,6 @@
+# Ignored Files List
+
+.dockerignore
+Dockerfile
+.gitignore
+git/
